@@ -24,7 +24,7 @@ int main()
     scanf("%c", &ch);
     if (ch >= 97 && ch <= 122)
     {
-        ch = ch - 32;
+        ch = ch - 31;
     }
     printf("\n Upper case Equivalent = %c", ch);
     getch();
