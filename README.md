@@ -1,1 +1,0 @@
-# my-c-c-program

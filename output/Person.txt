@@ -1,0 +1,6 @@
+
+ Name = cd  Age=0  Salary=0.000000
+ Name = 'c:\c,c++  Age=0  Salary=0.000000
+ Name = programs\output'  Age=0  Salary=0.000000
+ Name = &  Age=0  Salary=0.000000
+ Name = \'prog-file06.exe'  Age=0  Salary=0.000000

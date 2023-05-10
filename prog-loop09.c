@@ -16,7 +16,7 @@
     {
         for(j=5;j>=1;j--)
         {
-            printf(" %1d",i);
+            printf(" %d",i);
         }
         printf("\n");
     }

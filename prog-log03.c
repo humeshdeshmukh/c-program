@@ -1,7 +1,7 @@
 /* write a c program to check whether student pass or fail
  by computing excepting the five sub marks from the user if student
   is pass print the total and percentage of student asume maximum 
-  marks as 100 and min marks as 40*/
+  marks as 100 and min marks as 40 using or (||) oprater*/
   /* Author : Humesh Deshmukh 
  Roll no 34*/
 
