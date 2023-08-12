@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define MAX 5
-void main()
+int main()
 {
     int a[MAX];
     int i, j, temp, k;

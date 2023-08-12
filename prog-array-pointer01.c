@@ -12,7 +12,7 @@ int main()
     printf("Printing using name of the array:\n");
     for (i = 0; i < 5; i++) 
     {
-        printf("a[%d] = %d with address %u\n", i, a[i], &a[i]);
+        printf("a[%d] = %d with address %n \n", i, a[i], &a[i]);
     }
 
     printf("\nPrinting using pointer:\n");

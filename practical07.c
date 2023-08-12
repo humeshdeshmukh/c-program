@@ -43,7 +43,6 @@ int main()
     }
     printf("\n Matrix B\n");
     for (i = 0; i < MAX; i++)
-        1
         {
             for (j = 0; j < MAX; j++)
             {

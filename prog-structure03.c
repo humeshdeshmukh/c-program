@@ -5,20 +5,26 @@
 
 #include <stdio.h>
 
-struct complex {
+struct complex
+{
     int real;
     int img;
 };
 
-void display(struct complex *c) {
-    if (c->img < 0) {
+void display(struct complex *c)
+{
+    if (c->img < 0)
+    {
         printf("%d-i%d\n", c->real, c->img * -1);
-    } else {
+    }
+    else
+    {
         printf("%d+i%d\n", c->real, c->img);
     }
 }
 
-int main() {
+int main()
+{
     struct complex c1, c2, c3;
     printf("Enter the real and imaginary parts of the first complex number: ");
     scanf("%d%d", &c1.real, &c1.img);
