@@ -39,6 +39,8 @@
   "C_Cpp_Runner.useAddressSanitizer": false,
   "files.associations": {
     "prog-cond04.C": "cpp",
-    "conio.h": "c"
+    "conio.h": "c",
+    "INTRODUCTION.C": "cpp",
+    "ALTIMATE-CODE.C": "cpp"
   }
 }
