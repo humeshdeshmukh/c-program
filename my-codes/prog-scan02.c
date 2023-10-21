@@ -1,5 +1,5 @@
-#include<stdio.h>
-#include<conio.h>
+#include<stdio.h> /*hearder file*/
+#include<conio.h> // single line cooments
 int main()
 {
     int a,b,c;

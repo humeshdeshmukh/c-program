@@ -14,11 +14,11 @@ int main()
     printf("\n %d-%d=%d",a,b,a-b);
     printf("\n %d-%d=%d",a,b,a-b);
     printf("\n %d*%d=%d",a,b,a*b);
-    printf("\n %d/%d=%d",a,b,a/b);
+    printf("\n %d/%d=%f",a,b,a/b);
 
 }
 
-{/*
+/*{
 make repo in github 
 terminal mai jana, new terminal kholna
 git init
@@ -27,4 +27,4 @@ git commit -m "first commit"
 .
 . 
 
-*/}
+*/
